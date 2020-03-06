@@ -1,7 +1,7 @@
-public class Amazon
+public class Login
 {
 
-	public static void main( String args[])throws IOException
+	public static void main( String args[])
 	{
 		int i;
 
